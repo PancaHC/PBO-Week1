@@ -14,13 +14,13 @@ public class LuasSegitigaSikuSiku {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		double a, b, c, d;
+		double luas;
+		int alas, tinggi;
 		
-		a = 0.5;
-		b = 6;
-		c = 8;
-		d = a * b * c;
-		System.out.println("Hasil = "+ d);
+		alas = 6;
+		tinggi = 8;
+		luas = (alas * tinggi) / 2;
+		System.out.println("Luas = "+ luas);
 	}
 
 }
