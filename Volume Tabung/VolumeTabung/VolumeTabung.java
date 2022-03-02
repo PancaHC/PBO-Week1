@@ -20,7 +20,7 @@ double a, b, c, d;
 		b = 5;
 		c = 10;
 		d = a * b * b * c;
-		System.out.println("Hasil = "+ e);
+		System.out.println("Volume = "+ d);
 	}
 
 }
