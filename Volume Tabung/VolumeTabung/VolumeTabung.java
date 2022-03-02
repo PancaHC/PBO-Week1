@@ -14,13 +14,12 @@ public class VolumeTabung {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-double a, b, c, d, e;
+double a, b, c, d;
 		
 		a = 3.14;
 		b = 5;
-		c = 5;
-		d = 10;
-		e = a * b * c * d;
+		c = 10;
+		d = a * b * b * c;
 		System.out.println("Hasil = "+ e);
 	}
 
