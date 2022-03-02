@@ -10,7 +10,7 @@ public class KelilingLingkaran {
 		a = 3.14;
 		b = 10;
 		c = a * b;
-		System.out.println("Hasil = "+ c);
+		System.out.println("Keliling = "+ c);
 	}
 
 }
